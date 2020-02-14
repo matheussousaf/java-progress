@@ -1,7 +1,4 @@
-## Repositório para Exercícios da Disciplina de Metodologia e Linguagem de Programação II
-
-
-##### Professor: Rodrigo Fujioka
+## Repositório para exercícios e registro do meu progresso em Java!
 
 Esse repositório é organizado através de uma pasta raiz :file_folder: onde ficam os arquivos utilizados nas aulas.
 
